@@ -1,4 +1,0 @@
-E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\bin\Debug\SecurityAlarmLibrary.dll
-E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\bin\Debug\SecurityAlarmLibrary.pdb
-E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\obj\Debug\SecurityAlarmLibrary.dll
-E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\obj\Debug\SecurityAlarmLibrary.pdb
