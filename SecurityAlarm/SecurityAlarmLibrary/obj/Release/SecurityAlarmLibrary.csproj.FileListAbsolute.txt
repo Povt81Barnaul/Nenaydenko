@@ -1,0 +1,4 @@
+E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\bin\Release\SecurityAlarmLibrary.dll
+E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\bin\Release\SecurityAlarmLibrary.pdb
+E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\obj\Release\SecurityAlarmLibrary.dll
+E:\Powt\[9 Семестр]\ПСМП\SecurityAlarm\SecurityAlarmLibrary\obj\Release\SecurityAlarmLibrary.pdb
